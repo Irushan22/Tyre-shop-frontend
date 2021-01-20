@@ -4,3 +4,10 @@
   background-color: rgb(52 99 197);
   float: left;
 }
+.sidebar-nav {
+  margin-top: 10vh;
+}
+.sidebar-nav li {
+  list-style: none;
+  color: #fff;
+}
